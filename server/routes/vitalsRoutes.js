@@ -1,6 +1,6 @@
 import express from 'express'
 import { addVitals, getVitals, deleteVitals } from '../controllers/vitalsController.js'
-import authUser from '../middleware/authMiddleware.js'
+import authUser from '../middleware/authmiddleware.js'
 
 const vitalsRouter = express.Router()
 

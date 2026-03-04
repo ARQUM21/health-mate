@@ -1,6 +1,6 @@
 import express from 'express'
 import { addMember, getMembers, editMember, deleteMember } from '../controllers/memberController.js'
-import authUser from '../middleware/authMiddleware.js'
+import authUser from '../middleware/authmiddleware.js'
 
 const memberRouter = express.Router()
 

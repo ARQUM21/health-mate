@@ -1,6 +1,6 @@
 import express from 'express'
 import { analyzeReportWithAI, getInsightsByReports } from '../controllers/aiController.js'
-import authUser from '../middleware/authMiddleware.js'
+import authUser from '../middleware/authmiddleware.js'
 
 const aiRouter = express.Router()
 

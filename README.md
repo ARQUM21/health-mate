@@ -30,7 +30,7 @@
 ![Members](screenshots/healthmembers.PNG)
 
 ### 📋 Add Report
-![Add Report](screenshots/healthreport.PNG)
+![Add Report](screenshots/healthaddreport.PNG)
 
 ### 🤖 AI Analysis
 ![Analyze](screenshots/healthanalyze.PNG)

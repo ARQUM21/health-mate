@@ -21,7 +21,7 @@
 | ![Login](screenshots/healthlogin.PNG) | ![Signup](screenshots/healthsignup.PNG) |
 
 ### 🏠 Landing Page
-![Landing](screenshots/healthlanding.PNG)
+![Landing](screenshots/landingpage.PNG)
 
 ### 📊 Dashboard
 ![Dashboard](screenshots/healthdashboard.PNG)

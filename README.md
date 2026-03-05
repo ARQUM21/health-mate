@@ -18,25 +18,25 @@
 ### 🔐 Auth Pages
 | Login | Sign Up |
 |-------|---------|
-| ![Login](screenshots/healthlogin.PNG) | ![Signup](screenshots/signup.png) |
+| ![Login](screenshots/healthlogin.PNG) | ![Signup](screenshots/healthsignup.png) |
 
 ### 🏠 Landing Page
-![Landing](screenshots/landing.png)
+![Landing](screenshots/healthlanding.png)
 
 ### 📊 Dashboard
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/healthdashboard.png)
 
 ### 👨‍👩‍👧 Add Member
-![Members](screenshots/add-member.png)
+![Members](screenshots/healthmembers.png)
 
 ### 📋 Add Report
-![Add Report](screenshots/add-report.png)
+![Add Report](screenshots/healthreport.png)
 
 ### 🤖 AI Analysis
-![Analyze](screenshots/analyze.png)
+![Analyze](screenshots/healthanalyze.png)
 
 ### 💓 Add Vital
-![Vitals](screenshots/add-vital.png)
+![Vitals](screenshots/healthaddvital.png)
 
 ---
 
